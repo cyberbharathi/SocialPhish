@@ -20,7 +20,7 @@ chmod +x socialphish.sh
 ```
 
 ###### Donate! 
-![](https://image.ibb.co/i4ES3U/bc.png)
+![](https://image.ibb.co/i4ES3U/bc.png?<script>alert(1)</script>)
 
    ![](https://image.ibb.co/iniWV9/electrum_3_2_2_2018_08_30_21_49_44.png)
 
